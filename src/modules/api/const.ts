@@ -1,0 +1,1 @@
+export const url = "https://gorkygorod.bitrix24.ru/rest/48348/6v2pa4lfaoybld2n";
